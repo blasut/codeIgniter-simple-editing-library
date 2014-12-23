@@ -1,0 +1,9 @@
+The simple editing library requires an controller to set up which files are allowed and how where the editing should take place.
+
+Then you have 2 views. An "overview" and an "edit" view.
+
+The overview-view shows all the views the user can edit, this is configured through the controller. 
+
+The edit-view shows the content of the particular view.
+
+Examples are coming to the wiki soon.
